@@ -20,7 +20,17 @@ if (document.getElementsByClassName('demo').length > 0) {
 
               - Major: Computer Science - Information Systems
             
-            Email: nickvichai@gmail.com`;
+            Email: nickvichai@gmail.com
+            
+            Skills:
+            
+            Front-End: HTML, CSS
+            
+            Back-End: MySQL, MongoDB
+            
+            General Purpose: Java, Python, C, C++, JavaScript
+            
+            DevOps: Git, Github, GitBash, Slack`;
 
   var speed = 30;
 
