@@ -24,15 +24,15 @@ if (document.getElementsByClassName('demo').length > 0) {
             
             Skills:
             
-            Front-End: HTML, CSS
+            Web and Database : HTML, CSS, MySQL, MongoDB, SQL Server
             
-            Back-End: MySQL, MongoDB
+            Frameworks : ReactJS, NodeJS, ExpressJS, Bootstrap
             
-            General Purpose: Java, Python, C, C++, JavaScript
+            General Purpose : Java, Python, C, C++, JavaScript
             
-            DevOps: Git, Github, GitBash, Slack`;
+            DevOps: Git, Slack`;
 
-  var speed = 30;
+  var speed = 25;
 
   function typeItOut () {
     if (i < txt.length) {
@@ -44,7 +44,6 @@ if (document.getElementsByClassName('demo').length > 0) {
 
   setTimeout(typeItOut, 1800);
 }
-
 // toggle tabs on codeblock
 window.addEventListener("load", function() {
   // get all tab_containers in the document
