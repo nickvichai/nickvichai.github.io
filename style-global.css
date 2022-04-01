@@ -31,12 +31,6 @@ a, a:hover {
   color: var(--primary-color);
 }
 
-hr {
-  padding: 1rem 0;
-  border: 0;
-  border-bottom: 1px solid var(--bg-color);
-}
-
 * {
   box-sizing: border-box;
 }
@@ -131,12 +125,12 @@ hr {
   transition: all 0.3s ease-out;
 }
 
-.link:hover {
-  color: var(--accent-color);
-}
-
 .link--dark {
   color: var(--primary-color);
+}
+
+.link--dark:hover {
+  color: var(--accent-color);
 }
 
 .link--light {
