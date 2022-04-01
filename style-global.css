@@ -48,6 +48,20 @@ hr {
   color: var(--primary-color);
 }
 
+.title {
+  font-size: 32px;
+}
+
+hr {
+  border: none;
+  clear:both;
+  display:block;
+  width: 100%;               
+  background-color:var(--primary-color);
+  height: 1px;
+  padding: 1px;
+}
+
 
 /* code */
 .code {
@@ -127,6 +141,10 @@ hr {
 
 .link--light {
   color: var(--accent-color);
+}
+
+.link--light:hover {
+  color: var(--primary-color);
 }
 
 /* menu */
