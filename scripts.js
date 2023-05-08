@@ -18,19 +18,19 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             Education: University of Winnipeg
 
-              - Major: Computer Science - Information Systems
+            Major: Computer Science - Information Systems
             
             Email: nickvichai@gmail.com
             
             Skills:
             
-            Web and Database : HTML, CSS, MySQL, MongoDB, SQL Server
-            
-            Frameworks : ReactJS, NodeJS, ExpressJS, Bootstrap
-            
-            General Purpose : Java, Python, C, C++, JavaScript
-            
-            DevOps: Git, Slack`;
+              Web and Database : HTML, CSS, MySQL, SQL Server, PostgreSQL, HTTP
+              
+              Frameworks : ReactJS, NodeJS, Express, Bootstrap, Spring Boot, Spring WebFlux
+              
+              General Purpose : Java, Python, C, C++, JavaScript
+              
+              DevOps and Tools: Git, Slack, Docker, Visual Studio, VSCode, MS Office`;
 
   var speed = 25;
 
